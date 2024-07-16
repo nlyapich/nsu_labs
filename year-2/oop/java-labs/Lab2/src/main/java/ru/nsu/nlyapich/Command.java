@@ -1,0 +1,5 @@
+package ru.nsu.nlyapich;
+
+public enum Command {
+    MOVE_UP, MOVE_DOWN, MOVE_LEFT, MOVE_RIGHT, ROTATE_RIGHT, ROTATE_LEFT, ATTACK, PAUSE, PREV, NEXT, ACTIVATE_BLOCK;
+}
